@@ -1,6 +1,6 @@
-#Data Analyst
+# Data Analyst
 
-###Education
+### Education
 
-###Work Experience
+### Work Experience
 ext can be **bold**, _italic_, or ~~strikethrough~~.
