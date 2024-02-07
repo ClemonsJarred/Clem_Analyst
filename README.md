@@ -1,7 +1,5 @@
 # Data Analyst
 * * *
-## Skills
-* * *
 
 | Technical Proficiency         | Business Communications  |
 |:------------------------------|:-------------------------|
@@ -32,8 +30,7 @@ These projects showcase querying and analysis. They assume I am the Data analyst
 
 *[Project 2 - SQL Electronic Game Sales Analysis](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/fa05d0378be3fdbfebe18ddd33f992d1e54b70ae/Game_Sales_SQL.sql)
 
-*[Project 3 - SQL Streaming Analysis and Exploration]
-(https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/TwitchSQL.sql)
+*[Project 3 - SQL Streaming Analysis and Exploration](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/TwitchSQL.sql)
 
 
 ### _Microsoft Excel/ Visualization Projects_
