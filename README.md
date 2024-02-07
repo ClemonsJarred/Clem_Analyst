@@ -15,13 +15,16 @@
 
 ### _Python Projects_
 
+
 Clean, review and visualize data in Python (jupyter notebooks) by importing Pandas, MatPlotLib and Seaborn.
 
 *[Project 1 - Python Diabetes Data Exploration](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/diabetes1.ipynb)
 
 *[Project 2 - Python Hate Crime Statistics](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/hate-crime.ipynb)
 
+
 ### _SQL Projects_
+
 
 These projects showcase querying and analysis. They assume I am the Data analyst for a various businesses.
 
@@ -32,7 +35,9 @@ These projects showcase querying and analysis. They assume I am the Data analyst
 *[Project 3 - SQL Streaming Analysis and Exploration]
 (https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/TwitchSQL.sql)
 
+
 ### _Microsoft Excel/ Visualization Projects_
+
 
 These projects showcase Excel's versatility from a Unique ID Maker to a Dashboard.
 
@@ -41,6 +46,7 @@ These projects showcase Excel's versatility from a Unique ID Maker to a Dashboar
 *[Project 2 - Excel Example Sales Dashboard](https://1drv.ms/x/s!AhEUIU-nD_3qgdNc0M04XOTQ3dBiWA?e=CcGHGj)
 
 *[Project 3 - Fertility Rate](https://public.tableau.com/app/profile/jarred.clemons/viz/Average_Fertility_Rate-JC/Sheet1)
+
 
 
 ## Work Experience
