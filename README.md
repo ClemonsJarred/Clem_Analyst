@@ -5,22 +5,17 @@
 [Project 1 - SQL](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/Vet_SQL.sql) 
 
 
-[Project 2 - SQL]
-(https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/fa05d0378be3fdbfebe18ddd33f992d1e54b70ae/Game_Sales_SQL.sql)
+[Project 2 - SQL](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/fa05d0378be3fdbfebe18ddd33f992d1e54b70ae/Game_Sales_SQL.sql)
 
 #### _Python Projects_
-[Project 1 - Python]
-(https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/diabetes1.ipynb)
+[Project 1 - Python](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/diabetes1.ipynb)
 
-[Project 2 - Python]
-(https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/hate-crime.ipynb)
+[Project 2 - Python](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/hate-crime.ipynb)
 
 #### _Microsoft Excel Projects_
-[Project 1 - Excel]
-(https://1drv.ms/x/s!AhEUIU-nD_3qgdNl2IZHRUtwuFct7Q?e=sNbjEf)
+[Project 1 - Excel](https://1drv.ms/x/s!AhEUIU-nD_3qgdNl2IZHRUtwuFct7Q?e=sNbjEf)
 
-[Project 2 - Excel]
-(https://1drv.ms/x/s!AhEUIU-nD_3qgdNc0M04XOTQ3dBiWA?e=CcGHGj)
+[Project 2 - Excel](https://1drv.ms/x/s!AhEUIU-nD_3qgdNc0M04XOTQ3dBiWA?e=CcGHGj)
 
 ### Education
 **University of TN at Chattanooga**
