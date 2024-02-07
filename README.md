@@ -19,16 +19,21 @@
 
 ### Education
 **University of TN at Chattanooga**
+
 Bachelor’s Degree: Human Resource Management
 
 **University of TN at Chattanooga**
+
 Bachelor’s Degree: Business Administration
 
 ### Work Experience
 _Business Data Analyst_
 •	Independent Data Analyst utilizing Microsoft Excel and SQL Server to create reports from electronic health records databases. I present data findings in bi-weekly meetings. I identify KPIs and visualize them in Power BI dashboards, managing over 30 dashboards per month
+
 •	Create stored procedures from RDBMS with ETL processes and data pipeline management. 
+
 •	Engineer data transformation processes to generate carrier feeds, facilitating seamless data exchange between internal systems and external carriers/partners.
+
 •	Design and implement notification stored procedures to alert requesters via email. I create HTML/CSS emails that automatically sends emails using SQL Server Database Mail.
 
 ### Skills
@@ -43,4 +48,4 @@ _Business Data Analyst_
 
 
 
-ext can be **bold**, _italic_, or ~~strikethrough~~.
+
