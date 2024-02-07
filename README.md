@@ -28,6 +28,7 @@ Bachelor’s Degree: Business Administration
 
 ### Work Experience
 _Business Data Analyst_
+
 •	Independent Data Analyst utilizing Microsoft Excel and SQL Server to create reports from electronic health records databases. I present data findings in bi-weekly meetings. I identify KPIs and visualize them in Power BI dashboards, managing over 30 dashboards per month
 
 •	Create stored procedures from RDBMS with ETL processes and data pipeline management. 
