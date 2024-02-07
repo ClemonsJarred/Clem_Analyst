@@ -32,20 +32,11 @@ _Business Data Analyst @ Ameriflex (February 2022 to Present)_
 *	Engineer data transformation processes to generate carrier feeds, facilitating seamless data exchange between internal systems and external carriers/partners.
 *	Design and implement notification stored procedures to alert requesters via email. I create HTML/CSS emails that automatically sends emails using SQL Server Database Mail.
 
-## Skills
-* * *
-
-| Technical Proficiency         | Business Communications  |
-|:------------------------------|:-------------------------|
-| MS SQL Server                 | Power BI                 | 
-| MS Excel                      | MS Word/ PowerPoint      |
-| Python-Numpy, Seaborn, Pandas | Jira Ticketing System    | 
-| Statistics                    | Tableau                  | 
 
 ## Education
 * * *
 
-**University of TN at Chattanooga**
+####University of TN at Chattanooga
 
 *Bachelor’s Degree: Business Administration
 *Bachelor’s Degree: Human Resource Management
