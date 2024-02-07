@@ -10,10 +10,10 @@
 | Python-Numpy, Seaborn, Pandas | Jira Ticketing System    | 
 | Statistics                    | Tableau                  | 
 
-### Projects
+## Projects
 * * *
 
-##### _Python Projects_
+### _Python Projects_
 
 Clean, review and visualize data in Python (jupyter notebooks) by importing Pandas, MatPlotLib and Seaborn.
 
@@ -21,7 +21,7 @@ Clean, review and visualize data in Python (jupyter notebooks) by importing Pand
 
 *[Project 2 - Python Hate Crime Statistics](https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/hate-crime.ipynb)
 
-##### _SQL Projects_
+### _SQL Projects_
 
 These projects showcase querying and analysis. They assume I am the Data analyst for a various businesses.
 
@@ -32,7 +32,7 @@ These projects showcase querying and analysis. They assume I am the Data analyst
 *[Project 3 - SQL Streaming Analysis and Exploration]
 (https://github.com/ClemonsJarred/DataAnalystPortfolio/blob/main/TwitchSQL.sql)
 
-##### _Microsoft Excel/ Visualization Projects_
+### _Microsoft Excel/ Visualization Projects_
 
 These projects showcase Excel's versatility from a Unique ID Maker to a Dashboard.
 
