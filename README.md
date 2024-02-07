@@ -39,12 +39,7 @@ _Business Data Analyst_
 
 ### Skills
 |Technical Proficiency|Business Communications|
-|:-----:|:---:|
-|MS SQL Server|Power BI|
-|MS Excel|MS Word / PowerPoint|
-|Python-Numpy, Seaborn, Pandas|Jira Ticketing System|
-|HTML/CSS|Technical Writing|
-|Statistics|Tableau|
+|:-----:|:---:||MS SQL Server|Power BI||MS Excel|MS Word / PowerPoint||Python-Numpy, Seaborn, Pandas|Jira Ticketing System||HTML/CSS|Technical Writing||Statistics|Tableau|
 
 
 
