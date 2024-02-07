@@ -36,7 +36,7 @@ _Business Data Analyst @ Ameriflex (February 2022 to Present)_
 ## Education
 * * *
 
-####University of TN at Chattanooga
+#### University of TN at Chattanooga
 
 *Bachelor’s Degree: Business Administration
 *Bachelor’s Degree: Human Resource Management
