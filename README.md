@@ -38,13 +38,13 @@ _Business Data Analyst_
 •	Design and implement notification stored procedures to alert requesters via email. I create HTML/CSS emails that automatically sends emails using SQL Server Database Mail.
 
 ### Skills
-| Technical Proficiency | Business Communications |
-| :-----: | :---: |
-| MS SQL Server | Power BI   |
-| MS Excel | MS Word / PowerPoint   |
-| Python (Numpy, Seaborn, Pandas) | Jira Ticketing System   |
-| HTML/CSS | Technical Writing  |
-| Statistics | Tableau |
+|Technical Proficiency|Business Communications|
+|:-----:|:---:|
+|MS SQL Server|Power BI|
+|MS Excel|MS Word / PowerPoint|
+|Python-Numpy, Seaborn, Pandas|Jira Ticketing System|
+|HTML/CSS|Technical Writing|
+|Statistics|Tableau|
 
 
 
